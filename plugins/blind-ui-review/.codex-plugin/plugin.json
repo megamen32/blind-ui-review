@@ -1,0 +1,10 @@
+{
+  "name": "blind-ui-review",
+  "version": "1.0.0",
+  "description": "Слепая проверка интерфейса по видимым экранам и цели пользователя.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Blind UI Review",
+    "shortDescription": "Проверка интерфейса глазами нового пользователя"
+  }
+}
